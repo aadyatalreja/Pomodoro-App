@@ -45,17 +45,13 @@ The app helps users stay focused using the Pomodoro Technique, manage tasks with
   - `Space` → Start / Pause
   - `R` → Reset
 
----
-
-## Technologies Used
+### Technologies Used
 - **HTML5** – Structure
 - **CSS3** – Styling, animations, themes
 - **JavaScript (ES6)** – Timer logic, interactivity
 - **Browser APIs** – `setInterval`, `localStorage`, DOM manipulation
 
----
-
-## How to Run
+### How to Run
 
 1. Clone this repository or download the files
 2. Open `index.html` in any modern web browser
@@ -63,12 +59,11 @@ The app helps users stay focused using the Pomodoro Technique, manage tasks with
 
 No installations or dependencies required.
 
----
-
-## Key Learnings
+### Key Learnings
 - Managing timers safely using `setInterval`
 - Preventing race conditions and multiple intervals
 - DOM manipulation and UI state handling
 - Using CSS variables for theming
 - Persisting data with `localStorage`
+
 
